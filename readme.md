@@ -12,8 +12,8 @@ First, it will display `File>`, now you should enter the name of your program(No
 
 ## 3. What is ".jar"?
 
-If you are English, please [click here](https://en.wikipedia.org/wiki/JAR_(file_format))  
-If you are Chinese, please [click here](https://baike.baidu.com/item/JAR/919533?fr=aladdin)
+If you can speak English, please [click here](https://en.wikipedia.org/wiki/JAR_(file_format))  
+If you can speak Chinese, please [click here](https://baike.baidu.com/item/JAR/919533?fr=aladdin)
 
 ## 4. How can I execute ".jar" package?
 
