@@ -32,9 +32,4 @@ Sorry. You can't extract your ".java" code in the ".jar" package. But you can us
 
 ## 6. How to download this program?
 
-Uh. I think it is just a jock. :slightly_smiling_face:  
-Haha! I'm just kidding you. :laughing:  
-```
-Download Link:
-https://github.com/sjc0910/Create-Jar-Package/raw/master/Create%20Package.bat
-```
+[Press Here](https://github.com/sjc0910/Create-Jar-Package/archive/master.zip), and you can download zip now.
