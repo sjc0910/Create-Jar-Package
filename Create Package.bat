@@ -1,7 +1,7 @@
 @echo off
 set f=
 set /p f="Filename> "
-set author%=
+set author=
 set /p author="Author> "
 echo Manifest-Version: 1.0 > MANIFEST.MF
 echo Main-Class: %f% >> MANIFEST.MF
