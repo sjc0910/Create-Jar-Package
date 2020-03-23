@@ -32,5 +32,5 @@ javaw -jar xxx.jar
 
 ## 6. How to download this program?
 
-[Press here to download](https://github.com/sjc0910/Create-Jar-Package/archive/master.zip).  
-
+[Press here to download all files.](https://github.com/sjc0910/Create-Jar-Package/archive/master.zip)  
+[Press here to learn how to download some files of all.](http://www.gitzip.com/)
