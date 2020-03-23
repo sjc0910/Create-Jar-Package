@@ -28,7 +28,7 @@ javaw -jar xxx.jar
 
 ## 5. How can I extract my code from the package?
 
-Sorry. You can't extract your ".java" code in the ".jar" package. But you can use your zip program to extract the ".class" program in the ".jar" package. I'll update this feature later.
+[See here](https://github.com/sjc0910/Create-Jar-Package/wiki/FAQ-Page).
 
 ## 6. How to download this program?
 
