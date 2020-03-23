@@ -32,4 +32,4 @@ Sorry. You can't extract your ".java" code in the ".jar" package. But you can us
 
 ## 6. How to download this program?
 
-Uh. I think it is only a jock. :slightly_smiling_face:
+Uh. I think it is just a jock. :slightly_smiling_face:
